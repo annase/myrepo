@@ -6,7 +6,7 @@ public class App {
 
 
 		Employee emp1 = new Employee();
-		emp1.printFullName("Peter", "Müller");
+		emp1.printFullName("Hans", "Müller");
 
 	}
 
